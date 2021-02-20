@@ -1,23 +1,22 @@
 # nomard
 
 
-#Study 
-##teacher : NomardCoder 
+## Study 
+### teacher : NomardCoder 
 https://github.com/serranoarevalo
 
 
-##Course Name 
+### Course Name 
 바닐라 JS로 크롬 앱 만들기
 
 
-##Course Link
+### Course Link
 https://nomadcoders.co/javascript-for-beginners/lobby
 
-##Make List
+### Make List
 
--make To-do list 
-
--add API
+> -make To-do list 
+> -add API
 
 -Save User Name
 
