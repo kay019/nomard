@@ -17,8 +17,8 @@ https://nomadcoders.co/javascript-for-beginners/lobby
 ------------------------------
 ### Make List
 
-> - make To-do list
-> - add API
+> - To-do list
+> - Weather API
 > - Save User Name
 > - Image Backgrounds
 > - Js Clock
